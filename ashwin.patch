@@ -1,0 +1,20 @@
+From cf6f2c133b1cab242c33d8d7c07edd38d2c3f9cb Mon Sep 17 00:00:00 2001
+From: Keshav Darak <keshav_darak@yahoo.com>
+Date: Sun, 9 Jan 2011 22:34:37 +0530
+Subject: [PATCH] This is Commited by ashwin
+
+---
+ mytest.txt |    2 ++
+ 1 files changed, 2 insertions(+), 0 deletions(-)
+
+diff --git a/mytest.txt b/mytest.txt
+index 019e278..7f79f3f 100644
+--- a/mytest.txt
++++ b/mytest.txt
+@@ -1 +1,3 @@
+ This is test file for testing something
++
++No Modification done by ashwin
+-- 
+1.7.3.4
+
